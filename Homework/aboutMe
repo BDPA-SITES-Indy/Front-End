@@ -10,3 +10,5 @@ Here is a list of required elements you should include in these pages.
 6. You should include an HTML list somewhere on one of your pages; this can be an ordered, unordered, or description list.
 7. There should be semantic section elements on each page, including but not limited to <main>, <header>, and <footer>.
 *Pay close attention to your HTML tags and be sure to test your pages locally in an up-to-date web browser as you code them. You can also check your HTML code using the W3C Markup Validation Service.
+
+To recieve credit you must upload your completed file named "Lastname_Firstname_AssignmentName"
