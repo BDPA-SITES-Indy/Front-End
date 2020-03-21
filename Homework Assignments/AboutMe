@@ -1,0 +1,27 @@
+About Me Assignment:
+
+Project Setup:
+
+1.Create a new directory (folder) on your computer called “me”.
+Place HTML and image files associated with your new website inside of this directory.
+The home page of your new website should be named “index.html”.
+Other pages can be named as you like, but should reflect the content of the page.
+Remember that all file and directory names should be limited to letters, numbers,
+and dashes and be lowercase, with no spaces.
+
+Your Website:
+
+Three HTML web pages—about you—form the heart of the current assignment.
+Any combination of your background, interests, or experiences will do as long as it is autobiographical.
+You are to write these pages using Atom.
+
+Website Requirements:
+-There should be semantic text elements on each page, including but not limited to paragraph (<p>) and heading (<h1>, <h2>, etc.) text.
+-The pages should link to each other with “relative” URLs.
+-Each page should also include at least one “absolute” URL linking to an external website.
+-You should include at least one image (JPG, PNG, GIF, or SVG) on each page.
+-All img elements should include src, width, height, and alt attributes with appropriate values.
+-You should include an HTML list somewhere on one of your pages; this can be an ordered, unordered, or description list.
+-There should be semantic section elements on each page, including but not limited to <main>, <header>, and <footer>.
+
+Use https://validator.w3.org/ to help check your work
