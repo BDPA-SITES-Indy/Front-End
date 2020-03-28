@@ -1,0 +1,24 @@
+chapter15
+1.
+  selector:pseudo-class
+2.
+a.
+li:nth-child(odd){}
+b.
+li:nth-child(3){}
+Bonus.
+li:nth-child(n+7){}
+lesson16
+1.
+b. Inline declarations are the preferred way of writing professional CSS.is false
+2.
+internally externally and inline
+3.
+<link rel="stylesheet" href="my_stylesheet.CSS"
+lesson17-18
+1.
+blue
+2.
+black
+Bonus.
+102
