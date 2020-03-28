@@ -1,0 +1,107 @@
+Lesson 15: Pseudo Class Selectors
+
+
+1.
+The basic anatomy of a pseudo class selector is:
+
+        selector:pseudo-class
+
+Provide an example of a pseudo-class below
+
+2. Your webpage has an unordered list with dozens of list items in it. Using the nth-child pseudo class, how would you select:
+  a. All of the odd numbered list items?
+
+
+  b. The 3rd list item?
+
+
+  Bonus. All of the list items after the 6th list item?
+
+Lesson 16: Style Placement
+
+
+1. Which of the following is false?
+
+  a. CSS can be declared internally, externally, or inline.
+  b. Inline declarations are the preferred way of writing professional CSS.
+  c. Inline declarations effect a direct element within an html file.
+  d. External stylesheets can be referenced using a link tag.
+
+
+
+2. What three ways can css styles be declared?
+
+
+3. You have an external css file named my_stylesheet.css. How would you write the link tag to include this in your html file?
+
+
+Lesson 17-18: Conflict Resolution
+
+
+Use the html code snippet at the bottom to answer the follow questions:
+
+1. What color will the <h1> element end up and why?
+
+
+2. Which element will the <ul> element inherit it's background color from?
+
+
+Bonus. What would be the specificty score of:
+ div #concepts li {...}?
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+      body {
+        width: 80%
+        background-color: lightgrey;
+        font-family: serif;
+      }
+
+      h1 {
+        color: grey;
+      }
+
+      p {
+       color: black;
+       text-align: center;
+       font-family: Time New Roman;
+      }
+
+      .bold {
+      font-weight: bold;
+      }
+
+      #concepts ul{
+        background-color: pink;
+        width: 30%;
+        padding: 5px 10px;
+      }
+
+      #concepts li {
+        padding: 2px;
+        margin: 0 10px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 style="color:blue;">CSS Conflict Resolution</h1>
+    <div class="bold">
+      <p>Cascading is an algorithm defining how to combine css features from different sources.</p>
+    </div>
+    <div id="concepts">
+      <p style="text-align:left;">Concepts of CSS conflict resolution include:</p>
+      <ul>
+        <li>Origin</li>
+        <li>Merge</li>
+        <li>Inheritance</li>
+        <li>Specificity</li>
+      </ul>
+    </div>
+  </body>
+</html>
