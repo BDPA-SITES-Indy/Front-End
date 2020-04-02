@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: white;
+  padding: 20px;
+}
+
+header > h1 {
+  color: #636f9a;
+  text-align: center;
+  font-family: Asap, sans-serif;
+  font-size: 75px;
+}
+
+body {
+  background-color: #636f9a;
+}
