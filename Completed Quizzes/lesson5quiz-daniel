@@ -1,0 +1,81 @@
+True or False - Pixels are absolute units of measurements (as opposed to relative).
+true
+2. Write css code in between the "style" class selector brackets below
+to change the color, font size, font family, font style, font weight,
+text capitalization, and alignment of some text on a html web page.
+NOTE:you Do Not need to write any html code. Just complete the code
+below and pretend an html page exist to make it work).
+
+.style {color: blue; font-size: 20px
+
+}
+
+3. What do browsers normally have set as the default pixel size
+according to the lecture video?
+
+16px
+
+4. How can a user of your website increase the font size of your
+webpage to 150% without having access to your code?
+
+zooming in
+
+5. Fill in the blank - In HTML every element is a ____box___.
+
+6. Describe each of the components that make up The Box Model.
+You should describe the purpose and what each component controls.
+
+border, padding, and margin 
+
+7. Write css code in between the "box" id selector brackets below to
+change the padding on the left of some content to 7 pixels, the
+padding on the right of some content to 5 pixels, the padding on
+the bottom of some content to 6 pixels, and the padding on the top
+of some element to 10 pixels.
+
+#box{
+padding: top right bottom left;
+padding: 10px 5px 6px 7px ;
+}
+
+8. True or False - When writing CSS code to change margins, there is
+ a difference between  "margin: 40px" and "margin: 40px 40px 40px 40px".
+
+false
+
+padding:10px;
+
+9. What CSS property can you use to edit the width around some content
+
+width
+
+10. Box sizing is a property of every HTML element. By default this is
+set to "content box". CSS3 created a property for the default value of
+"content box", what is this CSS property?
+
+border-Box;
+
+11. What does the "*" element do in CSS? When would you want to use it?
+
+selects all
+
+12. What does the cumulative margins rule say about larger pixel values?
+
+
+
+13. What CSS property do we use when we have a box or any other element
+that is too small to hold all of the text?
+
+
+
+14. How would add a scroll bar inside of a element to hold a lot of text
+for someone visiting your website?
+
+
+
+
+15. List 5 different CSS properties that were not included in the lecture
+
+
+
+video and describe what they do. (hint: go to this link: https://www.w3schools.com/cssref/)
