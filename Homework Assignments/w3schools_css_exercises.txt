@@ -1,0 +1,60 @@
+Assignment:
+
+In the web browser of your choice go to the CSS Exercises on W3Schools at
+  https://www.w3schools.com/css/css_exercises.asp
+
+Click the 'Start the CSS Exercises' button and begin completing the exercises. As long as you work in the same browser your progress should save, so you do have to do everything at one time. You will required to complete the following sections:
+
+  CSS Selectors
+  CSS How to...
+  CSS background
+  CSS Border
+  CSS Margin
+  CSS Padding
+  CSS Height/Width
+  CSS Box Model
+  CSS Outline
+  CSS Text
+  CSS Font
+  CSS Links
+  CSS Lists
+  CSS Tables
+  CSS Display/Visibility
+  CSS Positioning
+  CSS Overflow
+  CSS Align
+  CSS Combinators
+  CSS Pseudo-classes
+  CSS Rounded Corners
+  CSS Backgrounds
+
+
+
+***For any exercise you are unable to complete or would like additional explanation, list them out by sections so that we can address these together in class or over Slack.
+
+  Incomplete/Needs additional Review
+    *Example* CSS Selectors: Exercises 2 and 4
+
+
+
+Once you finish, you'll be required to take a screen shot to show you did the appropriate sections.
+
+  On a Windows machine this can be done using the snipping tool to save the screen as an image. This can also be done with one the following keyboard commands:
+     Windows key + Print Screen
+     or
+     Windows key + shift-S
+     or
+     Alt + Print Screen
+
+  On a Mac device press the following keyboard buttons to take a screenshot that will save to your desktop:
+     Shift + Command + 4
+
+  Save your screenshot and name it yourlastname_yourfirstname_cssExercises as either a JPG or a PNG file. Then upload this file to:
+   https://github.com/BDPA-SITES-Indy/Front-End/tree/master/Completed%20Homework/cssExercises
+
+If you finish all of the required sections above, it is recommended that you complete these additional sections since they offer more ways of customizing your website for your About Me assignment. These sections are not required.
+  CSS Pseudo-elements
+  CSS Opacity
+  CSS Attribute Selectors
+  CSS Border Images
+  CSS Colors
