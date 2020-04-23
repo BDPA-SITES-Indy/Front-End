@@ -1,0 +1,56 @@
+body{
+  background-color:#E6E6FA
+
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+h2{
+  font-weight:bold;
+  font-size:27px;
+}
+
+h3{
+  font-weight:bold;
+  font-size:27px;
+}
+
+h4{
+  font-weight:bold;
+  font-size:27px;
+}
+
+h5{
+  font-weight:bold;
+  font-size:27px;
+}
+
+ul.a{
+  list-style-type: circle;
+}
+
+ul.b{
+  list-style-type: square;
+}
+
+/* unvisited link */
+a:link {
+  color: #8B0000;
+}
+
+/* visited link */
+a:visited {
+  color: #8B0000;
+}
+
+/* mouse over link */
+a:hover {
+color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}

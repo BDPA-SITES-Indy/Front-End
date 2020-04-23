@@ -1,0 +1,61 @@
+body{
+  font-size: 20px;
+  background-color: #00FA9A;
+  text-align:center;
+}
+
+h2{
+  font-weight:bold;
+  font-size: 27px;
+  text-align:center;
+}
+
+h3{
+  font-weight:bold;
+  font-size: 27px;
+  text-align:center;
+}
+
+h4{
+  font-weight:bold;
+  font-size: 27px;
+  text-align:center;
+}
+
+h5{
+  font-weight:bold;
+  font-size: 27px;
+  text-align:center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.table1{
+  background-color: #7B68EE;
+  border: "1";
+}
+.blue{
+  background-color: #3CB371;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}

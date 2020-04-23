@@ -1,0 +1,64 @@
+body{
+  background-color:lightblue;
+}
+
+p{
+  border-top-style: dotted;
+  border-top-width: 4px
+  border-top-color:white;
+  font-size:20px;
+  text-align:center;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 27px;
+  text-align:center;
+}
+
+h3{
+  font-weight:bold;
+  font-size:27px;
+  text-align:center;
+}
+
+h4{
+font-weight:bold;
+font-size:27px;
+text-align:center;
+}
+
+h5{
+ font-weight:bold;
+ font-size:27px;
+ text-align:center;
+}
+
+
+
+a{
+  text-decoration: none;
+  display:block;
+  font-size:20px;
+  text-align:center;
+}
+
+/* unvisited link */
+a:link {
+  background-color: lightblue;
+}
+
+/* visited link */
+a:visited {
+  background-color: lightblue;
+}
+
+/* mouse over link */
+a:hover {
+color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
