@@ -1,0 +1,13 @@
+Activity: CSS Monster
+
+Use css to create an image of a creature! This activity consists of two parts:
+
+1. An html file that includes the pieces of your monster.
+2. A stylesheet (css document) that determines how each piece of your image is styled, positioned, colored, etc.
+
+Your creation should be original.
+Your stylesheet should be referenced externally.
+
+Examples:
+
+https://codepen.io/search/pens?q=css+monster
