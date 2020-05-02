@@ -1,0 +1,33 @@
+
+#circle2 {
+  width: 25vh;
+  height: 25vh;
+  background: lightblue;
+  border-radius: 50%;
+  position: absolute;
+  top: 225px;
+  left: 675px;
+}
+#oval {
+    width: 10px;
+    height: 150px;
+    background: red;
+    border-radius: 50px / 100px;
+    position: absolute;
+    top:225px;
+    left: 750px;
+  }
+  #triangle-up {
+      width: 0;
+      height: 0;
+      border-left: 250px solid transparent;
+      border-right: 250px solid transparent;
+      border-bottom: 500px solid red;
+      position: absolute;
+      left: 505px;
+      z-index: -1;
+    }
+
+div {
+  border: 1px solid black;
+}
