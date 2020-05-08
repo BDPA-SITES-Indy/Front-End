@@ -1,0 +1,234 @@
+body{
+  background-color: pink;
+}
+
+#head {
+     width: 400px;
+     height: 400px;
+     background: #c353e0;
+     border-radius: 70%;
+     position: absolute;
+     left:40%;
+     top:10%;
+   }
+
+#eye1{
+  width: 60px;
+  height: 67px;
+  background: black;
+  border-radius: 50%;
+  position:absolute;
+  left: 45%;
+  top: 30%;
+}
+
+#eye2{
+  width: 60px;
+  height: 67px;
+  background: black;
+  border-radius: 50%;
+  position:absolute;
+  right: 37%;
+  top: 30%;
+}
+
+#pupil1{
+  width: 23px;
+  height: 23px;
+  background: white;
+  border-radius: 50%;
+  position:absolute;
+  right: 37%;
+  top: 32%;
+}
+
+#pupil2{
+  width: 23px;
+  height: 23px;
+  background: white;
+  border-radius: 50%;
+  position:absolute;
+  left: 45%;
+  top: 32%;
+}
+
+#mouth{
+  width: 175px;
+  height: 100px;
+  background: black;
+  border-radius: 30%;
+  position:absolute;
+  top:45%;
+  left: 48%;
+}
+
+#bottomtooth{
+  width: 0;
+   height: 40px;
+   border-left: 30px solid transparent;
+   border-right: 30px solid transparent;
+   border-bottom: 45px solid white;
+   position:absolute;
+   top: 47.25%;
+   left:50.1%;
+}
+
+#toptooth{
+  width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 45px solid white;
+    position:absolute;
+    top: 44.97%;
+    left: 55%;
+}
+
+#lefthorn{
+   width: 0;
+   height: 0;
+   border-top: 100px solid #5f4466;
+   border-right: 90px solid transparent;
+   position:absolute;
+   left:41%;
+   top: 14%;
+}
+
+#righthorn{
+width: 0;
+height: 0;
+border-top: 100px solid #5f4466;
+border-left: 90px solid transparent;
+position:absolute;
+left:61.4%;
+top:14%;
+}
+
+#head2{
+  width: 200px;
+  height: 295px;
+  background:#86e05c;
+  border-radius: 100px / 60px;
+  position:absolute;
+  left:5%;
+  top: 30%;
+}
+
+#eye3{
+width: 92px;
+height: 114px;
+background: black;
+border-radius: 50%;
+position: absolute;
+left: 9%;
+top: 36%;
+}
+
+#pupil3{
+  width: 75px;
+  height: 60px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: 44.2%;
+  left: 9.5%;
+}
+
+#mouth2 {
+  width: 80px;
+  height: 80px;
+  background: black;
+  border-radius: 30%;
+  position: absolute;
+  top: 57%;
+  left: 9.5%;
+}
+
+#tooth3 {
+  width: 0;
+  height: 0;
+  border-left: 24px solid transparent;
+  border-right: 24px solid transparent;
+  border-top: 35px solid white;
+  position: absolute;
+  top: 57%;
+  left: 10.6%;
+}
+
+#head3 {
+  display: block;
+  width: 200px;
+  height: 250px;
+  background-color: #5a87e0;
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  position: absolute;
+  top: 50%;
+  right: 10%;
+}
+
+#arm1{
+width: 90px;
+height: 22px;
+background: #5a87e0;
+-ms-transform: rotate(20deg); /* IE 9 */
+transform: rotate(27deg);
+position: absolute;
+top: 68%;
+right: 24%;
+}
+
+#arm2{
+width: 90px;
+height: 22px;
+background: #5a87e0;
+-ms-transform: rotate(20deg); /* IE 9 */
+transform: rotate(-27deg);
+position: absolute;
+top: 68%;
+right: 5%;
+}
+
+#leg1{
+width: 90px;
+height: 22px;
+background: #5a87e0;
+-ms-transform: rotate(20deg); /* IE 9 */
+transform: rotate(-40deg);
+position: absolute;
+top: 87%;
+right: 20%;
+}
+
+#leg2{
+width: 90px;
+height: 22px;
+background: #5a87e0;
+-ms-transform: rotate(20deg); /* IE 9 */
+transform: rotate(40deg);
+position: absolute;
+top: 87%;
+right: 9%;
+}
+
+
+#eye4 {
+display: block;
+width: 114px;
+height: 125px;
+background-color: white;
+border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+position: absolute;
+top: 57%;
+right: 13%;
+}
+
+#pupil4{
+display: block;
+width: 98px;
+height: 59px;
+background-color: black;
+border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+position: absolute;
+top: 67%;
+right: 13.5%;
+}
