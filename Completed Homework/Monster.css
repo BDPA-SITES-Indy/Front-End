@@ -1,0 +1,141 @@
+div{
+  border: solid;
+}
+
+body{
+background-color:#FFD9AB;
+}
+
+#eye{
+position: absolute;
+ left:45%;
+ top:30%;
+ width:150px;
+ height:150px;
+ border-radius:49%;
+ border-color:#9D80B1;
+ background-color: white;
+ z-index: -4;
+}
+
+#body{
+position:absolute;
+ width:360px;
+ height:360px;
+ border-radius:48%;
+ left:37%;
+ top:16%;
+ border-color:#9D80B1;
+ z-index:-5;
+ background-color:#be95db;
+}
+
+#lid{
+position: absolute;
+ border-radius:48%;
+ left:45%;
+ top:45%;
+ width:150px;
+ height:145px;
+ border-top:transparent;
+ background-color:#be95db;
+ border-color:#be95db;
+ }
+
+#shine-1{
+position: absolute;
+border-radius:48%;
+left:48%;
+top:42%;
+width:30px;
+height:30px;
+background-color:white;
+border-color:white;
+z-index: -2;
+}
+
+#shine-2{
+position: absolute;
+border-radius:48%;
+left:52%;
+top:35%;
+width:20px;
+height:20px;
+background-color:white;
+border-color:white;
+}
+
+#pupil{
+position: absolute;
+left:47%;
+top:33%;
+width:100px;
+height:100px;
+border-radius:50%;
+background-color: black;
+z-index:-3;
+}
+
+#mouth{
+position: absolute;
+border-top-left-radius:30px;
+border-top-right-radius:30px;
+border-bottom-left-radius:200px;
+border-bottom-right-radius:200px;
+left:45%;
+top:50%;
+width:150px;
+height:88px;
+background-color:#D36E5A;
+border-color:#9D80B1;
+}
+
+#tooth{
+position:absolute;
+border-left: 16px solid transparent;
+border-right: 16px solid transparent;
+border-top:  31px solid white;
+border-bottom: transparent;
+top:51%;
+left:47%;
+}
+
+#shadow{
+position: absolute;
+left:39%;
+top:80%;
+width:320px;
+height:100px;
+border-radius:45%;
+background-color:#EAC89E;
+border-color:#EAC89E;
+}
+
+#text{
+position:absolute;
+width:240px;
+height:180px;
+background:white;
+border-color: white;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+left:69%;
+top: 25%;
+/* text */
+text-align:center;
+color:#9D80B1 ;
+font-family:Bookman, URW Bookman L, serif;
+font-weight: bold;
+font-size:55px;
+ }
+
+#text-before {
+position: absolute;
+border-top: 30px solid transparent;
+border-right: 60px solid white;
+border-bottom: 30px solid transparent;
+border-left: transparent;
+left:65%;
+top:35%;
+}
