@@ -1,0 +1,53 @@
+
+  h1 {
+  text-align: center;
+}
+hr {
+  background-color: blue;
+  border-top: 50px;
+  height:25px;
+  width: 100%;
+}
+#button {
+  text-align:center;
+}
+.row {
+  padding-left: 550px;
+  padding-top: 20px;
+}
+.column {
+float:left;
+border-right: white dotted 15px;
+
+}
+.column1 {
+float: left;
+border-right: white dotted 15px;
+}
+.column2 {
+float: left;
+border-right: white dotted 15px;
+}
+.column3 {
+float: left;
+border-right: white dotted 15px;
+}
+.doggie {
+width:500px;
+padding-left: 450px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+  display: inline;
+}
+li a {
+  display: block;
+  padding: 8px;
+  background-color: red;
+}

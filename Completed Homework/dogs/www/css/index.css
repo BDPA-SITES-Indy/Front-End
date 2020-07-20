@@ -1,0 +1,37 @@
+
+h1 {
+  text-align: center;
+  background-color: blue
+}
+.dogs {
+  align-self: center;
+  height: 250px;
+  width: 300px;
+  padding-left: 525px;
+}
+h2 {
+  color: red;
+  padding-left: 612px;
+  padding-top: 25px;
+}
+p {
+  text-align: center;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+  display: inline;
+}
+li a {
+  display: block;
+  padding: 8px;
+  background-color: red;
+}

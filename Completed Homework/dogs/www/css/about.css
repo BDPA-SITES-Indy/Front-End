@@ -1,0 +1,34 @@
+
+  h2 {
+    text-align: center;
+  }
+  h4 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  .sitdog {
+    width: 250px;
+    padding-left: 545px
+  }
+.text {
+  padding-left:500px;
+  padding-right:500px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+  display: inline;
+}
+li a {
+  display: block;
+  padding: 8px;
+  background-color: red;
+}
