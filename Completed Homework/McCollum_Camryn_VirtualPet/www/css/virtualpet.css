@@ -1,0 +1,72 @@
+body{
+  background-color: #ffdb94;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  height: 240px;
+  width: 240px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+position: absolute;
+top: 40%;
+left: 40%;
+}
+
+#start{
+  position: absolute;
+  left: 40%;
+
+}
+
+.feed{
+  position: absolute;
+  top: 85%;
+  left: 40%;
+}
+
+.play{
+  position: absolute;
+  top: 85%;
+  left: 45%;
+}
+
+.bathe{
+  position: absolute;
+  top: 85%;
+  left: 50%;
+}
+
+.sleep{
+  position: absolute;
+  top: 85%;
+  left: 55%;
+}
